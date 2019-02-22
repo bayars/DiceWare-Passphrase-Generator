@@ -21,6 +21,7 @@ ruby main-tr.rb
 
 Sizden kaç kelime olmasını istediğini soracaktır. Bu bilgiyi verdikten sonra parolanız hazırdır. Güzel günlerde kullanmanız dileğiyle.
 
+---
 
 Diceware does complicated passwords to yours with a list. You used diceware passphrase, you should be throw the two dices. Dice give numbers between 1 to 6. You should write these numbers until 5 chracter and you'll search in list to yours number. This program remove all process.
 
