@@ -1,11 +1,5 @@
 # Dice Ware Passphrase Generator
 
-Dice ware passphrase generator is made ruby. What is the [dice ware](http://world.std.com/~reinhold/diceware.html)?
-
-
-
-### Türkçe:
-
 Merhaba, diceware iki tane zar kullanarak, rastgele gelen sayılar ile önceden üretilmiş bu sayılara karşılık gelen kelimelerle eşleme yapmalısınız. Bu sayede rastgele sayılar ile oluşturduğunuz sayılar aracılığıyla rastgele parolalar elde etmiş oluyorsunuz.
 
 Türkçe olarak daha ayrıntılı öğrenmek isterseniz şu kaynakları inceleyebilirsiniz;
