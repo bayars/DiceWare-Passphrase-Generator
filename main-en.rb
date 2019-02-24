@@ -3,7 +3,7 @@ p=Array.new(5)
 print("How many would you like have words?\n")
 dynamic = gets().to_i
 arr = IO.readlines("./diceware.wordlist-en.asc")          # If you want use different keyword list, you'll change this line
-dinamik.times do
+dynamic.times do
   for t in 0..4
     p[t]=Random.rand(1..6)                                # you'll be change with this line. `(1..6).to_a.sample(5)`  
   end
